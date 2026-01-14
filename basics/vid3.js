@@ -30,3 +30,4 @@ console.log(typeof null); // object
 console.log(typeof 123n); // bigint
 console.log(typeof true); // boolean
 console.log(typeof 123);    // number       
+
