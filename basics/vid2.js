@@ -6,9 +6,13 @@ let accountState;
 
 // accountID = 2 // not allowed
 
-accountEmail = "hd@google.com"
-accountPassword = "6363559"
+accountEmail = Process.env.EMAIL_USER
+accountPassword = Process.env.EMAIL_PASS
 accountCity = "bengaluru"
+
+EMAIL_USER=dummy
+EMAIL_PASS=dummy
+
 
 console.log(accountId);
 
