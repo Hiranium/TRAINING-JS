@@ -5,6 +5,8 @@
 // console.log(3
 // + 3) // code readability should be high
 
+
+ //*********************************datatypes *********************// */
 console.log("hiren");
 let name = "hiren" 
 let age = 21
