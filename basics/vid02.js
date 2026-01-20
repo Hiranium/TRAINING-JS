@@ -1,4 +1,4 @@
-//*********************const and variables******************//
+//********************const and variables******************//
 
 
 const accountId = 47220
