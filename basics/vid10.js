@@ -24,7 +24,7 @@ const hundreds = 10
 Number.MIN_VALUE;
 // console.log(Number.MIN_VALUE);
 
-//***********************MATHS*****************************/ */
+//***********************MATHS****************************/ */
 
 
 // console.log(Math);
