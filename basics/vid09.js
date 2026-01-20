@@ -1,4 +1,4 @@
-//  Strings in javaScript
+//  Strings in javaScript//
  const name = "hiren"
  const repoCount = 50
 
