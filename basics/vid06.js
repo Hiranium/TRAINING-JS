@@ -1,5 +1,5 @@
 // comparison operators
-
+// greater than, less than, greater than equal to, less than equal to, equal to, not equal to
 
 // console.log(5 > 3); 
 // console.log(2 < 4); 
