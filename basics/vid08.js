@@ -1,4 +1,4 @@
-// Stack (Primitive),   Heap memory(Non primitive)
+// Stack (Primitive),   //Heap memory(Non primitive)
 
 let myYouTubename  = "Tasmanian husky"  // Stack
 
